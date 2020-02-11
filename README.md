@@ -32,8 +32,6 @@ If you've never been to one before, Tidy Tuesdays is a weekly event within BEES 
 
 Before we get started, can everyone introduce yourself and let us know what you're hoping to get out of today's Tidy Tuesday? This could be 'wanting to learn more R tricks', 'practicing data visualisation', 'getting help with an R prpblem from my project' or 'procrastination'."
 
-_Introductions_
-
 # Resources
 
 [TidyTuesday - A weekly social data project in R](https://github.com/rfordatascience/tidytuesday)

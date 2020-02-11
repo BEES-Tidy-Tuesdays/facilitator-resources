@@ -28,10 +28,12 @@ Here's what you need to know. If what your looking for isn't here, feel free to 
 
 "Welcome to Tidy Tuesdays! I'm [your name] and I will be facilitating this week's session.
 
-If you've never been to one before, 
+If you've never been to one before, Tidy Tuesdays is a weekly event within BEES to discuss and practice coding, data wrangling, analysis and visualisation. Each week we will get an interesting raw data set, and use our collective skills to wrangle the data and visualise it in any way we like. We also aim to help each other with their day to day R problems, and discuss ways to improve each others' coding and data analysis skills. This is an ever evolving event, so please feel free to give feedback and input on how you want this to run.
 
 Before we get started, can everyone introduce yourself and let us know what you're hoping to get out of today's Tidy Tuesday? This could be 'wanting to learn more R tricks', 'practicing data visualisation', 'getting help with an R prpblem from my project' or 'procrastination'."
 
 _Introductions_
 
 # Resources
+
+[TidyTuesday - A weekly social data project in R](https://github.com/rfordatascience/tidytuesday)

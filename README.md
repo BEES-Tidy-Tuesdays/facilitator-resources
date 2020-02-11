@@ -32,6 +32,29 @@ If you've never been to one before, Tidy Tuesdays is a weekly event within BEES 
 
 Before we get started, can everyone introduce yourself and let us know what you're hoping to get out of today's Tidy Tuesday? This could be 'wanting to learn more R tricks', 'practicing data visualisation', 'getting help with an R prpblem from my project' or 'procrastination'."
 
+
+### 1. Access the data
+  - make sure R, R studio, and tidyverse are installed (i.e. for new comers) ~ provide a page how to do it.
+  - provide link to the data for the week
+  - explain the story about the data and its meta-data
+
+### 2. Compile questions
+ - set up a collaborative document, give the link to the audience. Candidates: https://hackmd.io/ ; google docs
+ - ask everyone to write down some plausible questions into the document
+ - anyone can choose what questions they want to answer; they can type their name next to the question.
+ - offer people with the same interest to make groups  
+ 
+ ### 3. Tackle the question
+  - discuss and type down some potential way to explore the data (i.e. steps to make data tidy and relevant type of plots)
+  - start coding
+  - leave descriptive comments whenever needed
+  - share the code onto the collaborative doc
+ 
+ ### 4. Wrap up
+  - review the answers, i.e. when there are multiple ways to approach the problem.
+  - mention any new package or function used in the session
+  - ask everyone what they've learned from the session
+
 # Resources
 
 [TidyTuesday - A weekly social data project in R](https://github.com/rfordatascience/tidytuesday)

@@ -54,6 +54,8 @@ Before we get started, can everyone introduce yourself and let us know what you'
   - review the answers, i.e. when there are multiple ways to approach the problem.
   - mention any new package or function used in the session
   - ask everyone what they've learned from the session
+  
+The facilitator tidy-up the compiled answers from the collaborative document, save it into an .Rmd format, and upload it to our repositories.
 
 # Resources
 

@@ -2,7 +2,7 @@
 
 So you're the facilitator for this week's Tidy Tuesday. Good on you!
 
-Here's what you need to know. If what your looking for isn't here, feel free to add it yourself, or add a issue to this repo.
+Here's what you need to know. If what your looking for isn't here, feel free to add it yourself, or add an issue to this repo.
 
 # Runsheet
 
